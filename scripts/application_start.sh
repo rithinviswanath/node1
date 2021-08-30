@@ -2,11 +2,11 @@
 
 # give permission to the files inside /secure_docs directory
 
-sudo chmod -R 777 /node1
+sudo chmod -R 777 /home/ubuntu/node1
 
 # navigate into current working directory
 
-cd /node1
+cd /home/ubuntu/node1
 
 # install node modules
 
