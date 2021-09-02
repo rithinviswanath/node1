@@ -8,6 +8,10 @@ sudo chmod -R 777 /home/ubuntu/node1
 
 cd /home/ubuntu/node1
 
+#git pull
+
+git pull
+
 # install node modules
 
 npm install
